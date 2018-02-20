@@ -1,13 +1,12 @@
 ---
-author: Tom Westland
-date: 2018-02-18 00:00:00 +0000
+author: "Tom Westland"
+date: 2018-02-18
 linktitle: How unequal was the federation of French West Africa?
-title: How unequal was the federation of French West Africa?
-weight: 10
 menu:
   main:
-    weight: 10
-
+title: How unequal was the federation of French West Africa?
+weight: 10
+type: "post"
 ---
 When the French parliament, including colonial representatives, was discussing the framework of a new relationship between French Africa and the metropole, a slight plaintive note could be detected in the contributions of the representatives of Côte d'Ivoire and Gabon. Respectively, these colonies were the largest economies of the federations of French West Africa (Afrique occidentale française, or AOF) and French Equatorial Africa (Afrique équatoriale française, or AEF). The white Ivorian planter Gaston Lagarosse said:
 
@@ -21,23 +20,23 @@ The complaint is about imperial inequality and the demand for redistribution. Th
 
 Some brief historical background: AOF incorporated eight colonies (clockwise from the northwest: Mauritania, Sénégal, Guinée, Côte d'Ivoire, Dahomey/Benin, Niger, Haute-Volta/Burkina Faso, and Soudan français/Mali). Depending on the context Togo is included, but because of its status as a League of Nations mandate, it was *de jure* separate from the rest of the AOF. The AOF was formed in 1895, but the actual establishment of federal political and economic infrastructure is usually dated from 1905, when the capital moved from Saint-Louis to Dakar and federal budgets were formulated. In the 1950s, various proposals for autonomy within the empire—or for independent federations that mimicked the structure of the AOF—were floated...and sank. By the early 1960s, all of the AOF colonies had become independent countries within their colonial borders.
 
-It should be fairly obvious that economic inequality among the various parts of the empire was crucial to the politics of the last few years of colonial rule; moreover, it can, I think, help to explain why some of the grand projects for democratic imperial federalism, of the kind outlined by [Frederick Cooper ](https://press.princeton.edu/titles/10256.html)and [Gary Wilder](https://www.dukeupress.edu/freedom-time), failed to eventuate. And since Emiliano mentioned the work of Branko Milanović in his [post](http://decompressinghistory.com/post/pinochet/), I think it's a nice fit that a Branko has done a lot of [work](http://www.tandfonline.com/doi/pdf/10.1080/13547860500291562?needAccess=true) on the economics of international federations and their collapse; I think it's hard to understand the eventual collapse of Afrique occidentale française as a federal project without understanding the economic challenges of fiscal federalism. In fact, I have a working paper on this question in progress! In this post, though, I'll focus not on the politics of imperial inequality and instead work on establishing just how unequal the AOF federation was, focusing on three separate questions: 
+It should be fairly obvious that economic inequality among the various parts of the empire was crucial to the politics of the last few years of colonial rule; moreover, it can, I think, help to explain why some of the grand projects for democratic imperial federalism, of the kind outlined by [Frederick Cooper ](https://press.princeton.edu/titles/10256.html)and [Gary Wilder](https://www.dukeupress.edu/freedom-time), failed to eventuate. And since Emiliano mentioned the work of Branko Milanović in his [post](http://decompressinghistory.com/post/pinochet/), I think it's a nice fit that Branko has done a lot of [work](http://www.tandfonline.com/doi/pdf/10.1080/13547860500291562?needAccess=true) on the economics of international federations and their collapse; I think it's hard to understand the eventual collapse of Afrique occidentale française as a federal project without understanding the economic challenges of fiscal federalism. In fact, I have a working paper on this question in progress! In this post, though, I'll focus not on the politics of imperial inequality and instead work on establishing just how unequal the AOF federation was, focusing on three separate questions: 
 
 #### Wages ####
 
-One of the easiest way to compare one colony to another is to look at stuff that's relatively conceptually easy to measure, like real wages, using the now well-known methodology of Bob Allen. This involves coming up with a 'barebones subsistence' basket of goods—the stuff that's enough just to keep someone alive, not comfortable' and to calculate the basket's price. Then you divide the nominal wage of a labourer by this basket price multiplied by four (assuming the labourer is also looking after a spouse and two children). We can then compare these 'welfare ratios' across time and across countries. As it happens, I've been working on creating such series for French West Africa; and, as it happens, as part of the new release of the Maddison database on per capita income (for more of which, see below), so have some other researchers. My work is nowhere near complete yet, but I picked a random year (1953) for which I'm pretty certain of the wages I've collected. The Maddison database [working paper](https://www.rug.nl/ggdc/html_publications/memorandum/gd174.pdf)  also presents urban real wages (expressed as a percentage of South Africa's, but we can back out the original wefare ratios), for 1950. Both are presented below:
+One of the easiest way to compare one colony to another is to look at stuff that's relatively conceptually easy to measure, like real wages, using the now well-known methodology of Bob Allen. This involves coming up with a 'barebones subsistence' basket of goods—the stuff that's enough just to keep someone alive, not comfortable—and to calculate the basket's price. Then you divide the nominal wage of a labourer by this basket price multiplied by three (assuming the labourer is also looking after a spouse and two children). We can then compare these 'welfare ratios' across time and across countries. As it happens, I've been working on creating such series for French West Africa; and, as it happens, as part of the new release of the Maddison database on per capita income (for more of which, see below), so have some other researchers. My work is nowhere near complete yet, but I picked a random year (1953) for which I'm pretty certain of the wages I've collected. The Maddison database [working paper](https://www.rug.nl/ggdc/html_publications/memorandum/gd174.pdf)  also presents urban real wages (expressed as a percentage of South Africa's, but we can back out the original wefare ratios), for 1950. Both are presented below:
 
 ###### Welfare ratios in French West Africa, 1950 and 1953 ######
 
 |               | Maddison, 1950 | Me, 1953 |
 |---------------|----------------|----------|
-| Sénégal       | 2.9            | 2.17     |
-| Côte d’Ivoire | 2.0           | 2.6      |
-| Haute-Volta/Burkina Faso  | 1.7           | 1.13     |
-| Soudan français/Mali          | 1.0          | 1.6      |
-| Dahomey/Benin         | 1.2           | 1.6      |
-| Niger         | 1.0          | 1.1      |
-| Guinée française/Guinea        | 1.0         | 1.5      |
+| Sénégal       | 2.9            | 2.9     |
+| Côte d’Ivoire | 2.0           | 3.5     |
+| Haute-Volta/Burkina Faso  | 1.7           | 1.5    |
+| Soudan français/Mali          | 1.0          | 2.1     |
+| Dahomey/Benin         | 1.2           | 2.1      |
+| Niger         | 1.0          | 1.4      |
+| Guinée française/Guinea        | 1.0         | 2.0     |
 
 Obviously, the main takeaway here is that Senegal and Côte d'Ivoire had high urban wages—not unrelated, they also had fairly large urban sectors, compared with the rest of the AOF federation. You can see this in both the Maddison wage estimates and mine. When it comes to the second tier economies—the 'inner periphery' of the AOF—my estimates diverge somewhat from the Maddison ones.^[The fact that there is significant divergence for some countries when you compare across the estimates may be partly due to the fact that we're looking at different years, but may also partly reflect methodology used to construct the subsistence baskets—when you use the Allen basket approach, you are sometimes forced to make choices about what to include in the basket (which grain is the cheapest? should we count pork as a protein option if most of the population of a city is Muslim and therefore won't eat it?)] For the Maddison authors, this inner periphery consists of Haute-Volta (Burkina Faso today): in Ouagadougou, wages were reasonably close to those in Abidjan and over half of those in Dakar. In my estimates, however, the 'inner periphery' is composed of Soudan français (now Mali), Guinea and Dahomey (Benin). My own figures fit my priors better than the Maddison ones do (which is not necessarily a good thing!), as I think that distance to the coast—and hence to coastal trade—probably explains a lot about urban welfare in West Africa. The existence of the Dakar-Niger railway (which actually terminates on the Niger *river*, in Mali, not in present-day Niger) also helps to explain why wages might have been higher in Soudan français, which is nonetheless a landlocked colony: it enabled fairly large towns like [Bamako](http://www.jstor.org/stable/41231044?seq=1#page_scan_tab_contents) and [Kayes](http://www.jstor.org/stable/pdf/4391749.pdf?refreqid=excelsior%3Abf62b060922baf364af1ae9d0b954301) to develop, with large-ish urban sectors. On the other hand, meat was fairly cheap inland, thanks to the existence of large cattle herds in the Sahel. 
 
