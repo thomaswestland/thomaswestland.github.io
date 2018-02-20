@@ -9,6 +9,8 @@ menu:
     weight: 10
 
 ---
+EMILIANO TRAVIESO
+
 Economists don't agree about the economics of dictatorships: some claim
 that the lack of checks on the executive and the widespread repression
 of political voice provide an institutional framework encouraging
@@ -26,7 +28,7 @@ alternative regimes, not because it makes us rich (though some continue
 to argue that). On this post I'd like to focus on the distributional
 impacts of a 'Structural Adjustment' economic policy under a dictatorial
 regime, looking at the experience of the Latin American poster child for
-'free-market' economic reform: Chile under Pinochet.
+\'free-market' economic reform: Chile under Pinochet.
 
 Throughout the first half of the 20th century, the Southern Cone
 economies (Argentina, Chile and Uruguay) had the highest per capita
@@ -46,14 +48,14 @@ education, passed a land reform act, and encouraged the creation of new
 cooperatives and trade unions. The limits shown by some of Frei’s
 reformist policies encouraged the growth of more leftist political
 parties, who in 1970 won the national elections running together as
-Popular Unity (*Unidad Popular*, UP), with a Socialist presidential
+Popular Unity (_Unidad Popular_, UP), with a Socialist presidential
 candidate, Salvador Allende, and the support of labour trade unions.
 Their platform centred on nationalising the mining industry
-(particularly copper, which accounted for two thirds of Chilean
+\(particularly copper, which accounted for two thirds of Chilean
 exports), the redistribution of income, the intensification of the
 agrarian reform already underway, and the improvement of working
-conditions, all as part of a 'democratic transition to socialism' – *la
-vía chilena al socialismo*.
+conditions, all as part of a 'democratic transition to socialism' – _la
+vía chilena al socialismo_.
 
 When Allende came into office the international price of copper was on
 the rise, which meant that Chile’s terms of trade were extremely
@@ -78,13 +80,13 @@ and labour unions were banned, tens of thousands of Chileans were
 tortured and killed and hundreds of thousands forced into exile, and the
 whole population lost the basic political rights of franchise,
 association and free speech. The return of democracy was led by the
-Coalition of Parties for Democracy (*Concertación*), an alliance of
+Coalition of Parties for Democracy (_Concertación_), an alliance of
 centre and centre-left parties, which arose from success in the
 referendum against the dictatorship in 1988 and remained in power until
-2009.
+2009\.
 
 The series of structural adjustment reforms under Pinochet were designed
-by a group of civilian economists: the *Chicago Boys*, Chileans trained
+by a group of civilian economists: the _Chicago Boys_, Chileans trained
 as graduate students in the Department of Economics at the University of
 Chicago. In the late 1980s their economic program was hailed as a Latin
 American success story: when asked about the ‘Chilean economic miracle’
@@ -95,7 +97,7 @@ junta committed to a program of 'bottom up economics.' Against the
 background of Latin America's 'lost decade' (as the 1980s became known
 as a result of economic stagnation and a region-wide debt crisis), Chile
 boasted rising export values, an average rate of GDP growth of 2.9%
-(although with high volatility), and a small but consistent fiscal
+\(although with high volatility), and a small but consistent fiscal
 surplus during the Pinochet years. Looking at the Chile in a slightly
 longer historical perspective, however, the real miracle is how fast
 income inequality increased during the dictatorship and how unable
@@ -105,8 +107,8 @@ inequality levels.
 ![Inequality in Chile](/static/img/chile.png)
 
 Source: per capita GDP: Montevideo-Oxford Latin American Database
-(MOxLAD); Gini: Universidad de Chile, *Encuesta de Ocupación y
-Desocupación en el Gran Santiago*, Santiago de Chile, 1964-2009. The
+\(MOxLAD); Gini: Universidad de Chile, _Encuesta de Ocupación y
+Desocupación en el Gran Santiago_, Santiago de Chile, 1964-2009. The
 Gini data available for the whole period refers only to the Great
 Santiago Area, but due to its population size and importance in the
 Chilean economy, it can be considered representative of the country as a
@@ -121,13 +123,13 @@ inequality? The most convenient answer would perhaps be 'by a systematic
 rolling back of the state', but what happened was much closer to a
 radical reorientation of the state's part in the economy than to its
 withering away. The copper industry remained largely nationalized
-(though the government revenue thereof was redirected towards security
+\(though the government revenue thereof was redirected towards security
 and defence), the national government continued to control labour
 relations (dismantling unions and preventing strikes), and when the
 privatizations of some national companies didn't work out as planned the
 dictatorship was quick to re-nationalize them during the economic crisis
 of 1982. Friedman's description of Pinochet's Chile as the kingdom of
-'bottom-up economics' was, it seems, rather naive. However, the Chicago
+\'bottom-up economics' was, it seems, rather naive. However, the Chicago
 Boys did unreservedly apply his teachings to some key sectors: health,
 pensions and education were opened to private companies and run (less
 explicitly but not less consequentially in the case of higher education)
@@ -148,37 +150,37 @@ Following Milanovic, Lindert and Williamson the inequality extraction
 ratio is calculated as the quotient between the Gini coefficient and the
 maximum feasible Gini (i.e. the inequality possibility frontier) in a
 given economy. The maximum feasible Gini takes a minimum annual
-subsistence income of *s*=300 Gheary-Kamis 1990 USD Dollars, and then
-calculates the distribution Gini assuming that everyone’s income is *s*
+subsistence income of _s_=300 Gheary-Kamis 1990 USD Dollars, and then
+calculates the distribution Gini assuming that everyone’s income is _s_
 except one individual who gets all the rest: that situation defines the
 inequality possibility frontier.
 
 ![Inequality extraction ratio in Chile](/static/img/chile2.png)
 
 Source: GDP data from the Montevideo-Oxford Latin American Database
-(MOxLAD) and Gini data from Universidad de Chile, *Encuesta de Ocupación
-y Desocupación en el Gran Santiago*, Santiago de Chile, 1964-2009. The
+\(MOxLAD) and Gini data from Universidad de Chile, _Encuesta de Ocupación
+y Desocupación en el Gran Santiago_, Santiago de Chile, 1964-2009. The
 benchmarks for Roman Empire, Tuscany, England & Wales, India, United
 Kingdom and Germany are from Milanovic, B, P. Lindert, and J.
 Williamson, 'Pre-Industrial Inequality'.
 
 Income inequality increased almost everywhere else in Latin America, and
 indeed around the world, in the 1970s, so the Chilean trend under
-Pinochet should not be surprising. But the resulting inequality *levels*
+Pinochet should not be surprising. But the resulting inequality _levels_
 in the 1980s were extraordinary for a middle-income country, even for a
 Latin American one. They also proved persistent: in 2017 Chile was,
 together with Uruguay, the only Latin American economy classified as a
-'high income country' by the World Bank, and yet in terms of income
+\'high income country' by the World Bank, and yet in terms of income
 inequality it remains, with Brazil, the worst in the region. Latin
 American countries are generally much more unequal than expected
 according to their income, and Chile since Pinochet (and with no end in
 sight) is the most extreme case. When considering the economics of
 dictatorships distribution should be focused on as much as growth.
 
-For more on Chilean inequality see [*this
-post*](https://pseudoerasmus.com/2015/04/24/chilean-inequality-the-first-globalisation-1870-1914/)
+For more on Chilean inequality see [_this
+post_](https://pseudoerasmus.com/2015/04/24/chilean-inequality-the-first-globalisation-1870-1914/)
 by Javier Rodríguez Weber, translated and annotated by Pseudoerasmus; and
-for more on the economics of Latin American dictatorships read [*Joe
-Francis on Argentina*](http://www.joefrancis.info/profits-and-terror/).
+for more on the economics of Latin American dictatorships read [_Joe
+Francis on Argentina_](http://www.joefrancis.info/profits-and-terror/).
 Stay tuned for ramblings on Latin American economic history, next time
 probably about Fray Bentos corned beef.
