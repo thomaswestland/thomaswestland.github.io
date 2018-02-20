@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Decompressing | History</title>
+    <link>https://tomwestland.github.io/home/</link>
+    <description>Recent content in Homes on Decompressing | History</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2017 | Follow on &lt;a href=&#34;https://twitter.com/tomwestland&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://github.com/tomwestland” target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tomwestland.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Decompressing History</title>
+      <link>https://tomwestland.github.io/home/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomwestland.github.io/home/about/</guid>
+      <description>Emiliano Travieso is a PhD student in economic history at King&amp;rsquo;s College, Cambridge. He works on the economic history of the River Plate in the eighteenth and nineteenth centuries; he is also interested in ______
+Tom Westland is a PhD student in economic history at Sidney Sussex College, Cambridge. His current work centres on French West Africa, and in particular Senegal in the colonial and post-independence periods.</description>
+    </item>
+    
+  </channel>
+</rss>
