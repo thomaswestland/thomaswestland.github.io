@@ -1,12 +1,13 @@
 ---
-author: "Tom Westland"
-date: 2018-02-18
+author: Tom Westland
+date: 2018-02-18 00:00:00 +0000
 linktitle: How unequal was the federation of French West Africa?
-menu:
-  main:
 title: How unequal was the federation of French West Africa?
 weight: 10
-type: "post"
+menu:
+  main:
+    weight: 10
+
 ---
 When the French parliament, including colonial representatives, was discussing the framework of a new relationship between French Africa and the metropole, a slight plaintive note could be detected in the contributions of the representatives of Côte d'Ivoire and Gabon. Respectively, these colonies were the largest economies of the federations of French West Africa (Afrique occidentale française, or AOF) and French Equatorial Africa (Afrique équatoriale française, or AEF). The white Ivorian planter Gaston Lagarosse said:
 
