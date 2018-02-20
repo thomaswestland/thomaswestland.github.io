@@ -1,6 +1,5 @@
 +++
 date = "2014-04-09T00:00:00Z"
-draft = true
 title = "About Decompressing History"
 type = "page"
 
