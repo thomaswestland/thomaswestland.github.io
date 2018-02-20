@@ -1,14 +1,14 @@
 ---
-author: "Emiliano Travieso"
-date: 2018-02-18
+author: Emiliano Travieso
+date: 2018-02-18 00:00:00 +0000
 linktitle: Pinochet's inequality miracle
-menu:
-  main:
 title: Pinochet's inequality miracle
 weight: 10
-type: "post"
----
+menu:
+  main:
+    weight: 10
 
+---
 Economists don't agree about the economics of dictatorships: some claim
 that the lack of checks on the executive and the widespread repression
 of political voice provide an institutional framework encouraging
