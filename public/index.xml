@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Decompressing | History</title>
-    <link>https://thomaswestland.github.io/post/</link>
-    <description>Recent content in Posts on Decompressing | History</description>
+    <title>Decompressing | History</title>
+    <link>https://thomaswestland.github.io/</link>
+    <description>Recent content on Decompressing | History</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Tom Westland and Emiliano Travieso are PhD students in economic history at the University of Cambridge.</copyright>
-    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://thomaswestland.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thomaswestland.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>England vs Sweden, Quarter-finals, 7 July</title>
+      <link>https://thomaswestland.github.io/post/engsw/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/post/engsw/</guid>
+      <description>How much should workers get paid in a country going through (or aspiring to) broad-based economic growth? the economist asks. She quickly explains her use of should refers to an equilibrium solution rather than a moral sense of ideal, but her historian friend is still not convinced. What is relevant, the historian says, is why in some places and times in the past workers got a larger slice of the cake than in others.</description>
+    </item>
+    
+    <item>
+      <title>Croatia vs Denmark, Round of 16, 1 July</title>
+      <link>https://thomaswestland.github.io/post/croatia-vs-denmark/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/post/croatia-vs-denmark/</guid>
+      <description>What kind of rich people do poor countries need? 1 The wrong kind of rich person, after all, can be incredibly bad for growth. Money buys power, and power is, if not exactly zero-sum, at least usually highly restricted in supply. If elites spend most of their wealth in preventing other people from gaining power at their expense, then they can seriously hold back broad-based economic growth. For example, they might discourage the poor from getting an education, as Jörg Baten has demonstrated with a series of coauthors.</description>
+    </item>
     
     <item>
       <title>Nigeria vs. Argentina, Matchday 3, 26 June, 7pm (BST)</title>
@@ -73,6 +91,16 @@
       
       <guid>https://thomaswestland.github.io/post/pinochet/</guid>
       <description>Economists don&amp;rsquo;t agree about the economics of dictatorships: some claim that the lack of checks on the executive and the widespread repression of political voice provide an institutional framework encouraging rent-seeking and stifling growth, whereas others think that it is precisely the lack of political accountability to the electorate that allows for economic policies that make technical sense and are conducive to growth but would not attain political consensus. Economic historians, whose job description allows them to focus on cases rather than on general rules, can point to examples supporting both theses (or neither).</description>
+    </item>
+    
+    <item>
+      <title>About Decompressing History</title>
+      <link>https://thomaswestland.github.io/about/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/about/</guid>
+      <description>Emiliano Travieso is a PhD student in economic history at King&amp;rsquo;s College, Cambridge. He works on the economic history of the River Plate in the nineteenth and twentieth centuries, focusing on natural resources, agriculture and energy.
+Tom Westland is a PhD student in economic history at Sidney Sussex College, Cambridge. His current work centres on the French colonial world, and in particular Senegal in the colonial and post-independence periods, with an emphasis on trade, structural change and industrialisation.</description>
     </item>
     
   </channel>
