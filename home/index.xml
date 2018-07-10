@@ -1,25 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Decompressing | History</title>
-    <link>https://tomwestland.github.io/home/</link>
-    <description>Recent content in Homes on Decompressing | History</description>
+    <title>Decompressing | History</title>
+    <link>https://thomaswestland.github.io/</link>
+    <description>Recent content on Decompressing | History</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2017 | Follow on &lt;a href=&#34;https://twitter.com/tomwestland&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://github.com/tomwestland” target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <copyright>Tom Westland and Emiliano Travieso are PhD students in economic history at the University of Cambridge.</copyright>
+    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tomwestland.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thomaswestland.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About Decompressing History</title>
-      <link>https://tomwestland.github.io/home/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>England vs Sweden, Quarter-finals, 7 July</title>
+      <link>https://thomaswestland.github.io/post/engsw/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tomwestland.github.io/home/about/</guid>
-      <description>Emiliano Travieso is a PhD student in economic history at King&amp;rsquo;s College, Cambridge. He works on the economic history of the River Plate in the eighteenth and nineteenth centuries; he is also interested in ______
-Tom Westland is a PhD student in economic history at Sidney Sussex College, Cambridge. His current work centres on French West Africa, and in particular Senegal in the colonial and post-independence periods.</description>
+      <guid>https://thomaswestland.github.io/post/engsw/</guid>
+      <description>How much should workers get paid in a country going through (or aspiring to) broad-based economic growth? the economist asks. She quickly explains her use of should refers to an equilibrium solution rather than a moral sense of ideal, but her historian friend is still not convinced. What is relevant, the historian says, is why in some places and times in the past workers got a larger slice of the cake than in others.</description>
+    </item>
+    
+    <item>
+      <title>Croatia vs Denmark, Round of 16, 1 July</title>
+      <link>https://thomaswestland.github.io/post/croatia-vs-denmark/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/post/croatia-vs-denmark/</guid>
+      <description>What kind of rich people do poor countries need? 1 The wrong kind of rich person, after all, can be incredibly bad for growth. Money buys power, and power is, if not exactly zero-sum, at least usually highly restricted in supply. If elites spend most of their wealth in preventing other people from gaining power at their expense, then they can seriously hold back broad-based economic growth. For example, they might discourage the poor from getting an education, as Jörg Baten has demonstrated with a series of coauthors.</description>
+    </item>
+    
+    <item>
+      <title>Nigeria vs. Argentina, Matchday 3, 26 June, 7pm (BST)</title>
+      <link>https://thomaswestland.github.io/post/argentina-vs-nigeria/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/post/argentina-vs-nigeria/</guid>
+      <description>On paper, federations generally seem like a good idea. A federal state can pool the resources of what would otherwise be separate economies to provide public goods more efficiently, which is what states are there for, at least from an economist’s perspective. Public goods, to expand Samuelson’s 1954 definition a little bit,1 are those which can be enjoyed in common, either because they can be consumed by each individual without detracting from anyone else’s consumption (e.</description>
+    </item>
+    
+    <item>
+      <title>Saudi Arabia vs Uruguay, Matchday 2, 20 June at 4pm (BST)</title>
+      <link>https://thomaswestland.github.io/post/saudi-v-uruguay/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/post/saudi-v-uruguay/</guid>
+      <description>So the genie comes out of the economic history lamp and you ask for vast green pastures, or plentiful oilfields, or something along those lines. But as usual with genies and wishes there is a catch, or several. First of all, the genie&amp;rsquo;s gift can be irritatingly resource-specific: you end up with a grassland economy that produces food for ten times its population but has no domestic fossil energy sources—like Uruguay—or with a desert country that has unparalleled oil reserves but relies on imported food to keep workers fed—like Saudi Arabia.</description>
+    </item>
+    
+    <item>
+      <title>Russia vs Egypt, Matchday 2, 19 June at 7pm (BST)</title>
+      <link>https://thomaswestland.github.io/post/egypt-v-russia/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/post/egypt-v-russia/</guid>
+      <description>Neither Egypt nor Russia is Denmark, and you can tell because Egypt and Russia are in Group A in the World Cup and Denmark is in Group C. In the shorthand used by economic historians, however, in which &amp;ldquo;Denmark&amp;rdquo; is more adjective than noun—&amp;rdquo;why isn&amp;rsquo;t country X Denmark?&amp;ldquo;—the short answer is that neither Russia nor Egypt, despite considerable growth in the 20th century, is rich enough to be considered &amp;ldquo;Denmarkish&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>France v. Australia, Matchday 1, Kazan, 15 June at 7pm (BST)</title>
+      <link>https://thomaswestland.github.io/post/france-v-australia/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/post/france-v-australia/</guid>
+      <description>Australia and France share both a well-recognised maritime border as well as a substantial if somewhat less recognised land border (in Antarctica, but who&amp;rsquo;s counting). And yet despite this proximity, merchandise trade between France and Australia, at least in the important products, defies economic gravity: Belgium received $438 million of French cheese in 2016, while Australia, despite having an economy almost three times as large as Belgium&amp;rsquo;s, only got $24 million of the stuff.</description>
+    </item>
+    
+    <item>
+      <title>Spain v. Portugal, Matchday 1, 15 June at 7pm (BST)</title>
+      <link>https://thomaswestland.github.io/post/spain-v-portugal/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/post/spain-v-portugal/</guid>
+      <description>There was a time when saying Spain versus Portugal was a shorthand for Western expansion overseas, inter-imperial competition (as well as cooperation), and new worlds below the Tropics full of spices, sugar, and silver. The Iberian peninsula was, in the sixteenth century and beyond, the Janus-faced prow of Europe towards the Atlantic. But the Iberian rivalry was not merely about whose flag would be flying over which harbour—it was also a struggle between two models of empire.</description>
+    </item>
+    
+    <item>
+      <title>How unequal was the federation of French West Africa?</title>
+      <link>https://thomaswestland.github.io/post/how-poor-were-the-sahelian-colonies/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/post/how-poor-were-the-sahelian-colonies/</guid>
+      <description>When the French parliament, including colonial representatives, was discussing the framework of a new relationship between French Africa and the metropole, a slight plaintive note could be detected in the contributions of the representatives of Côte d&amp;rsquo;Ivoire and Gabon. Respectively, these colonies were the largest economies of the federations of French West Africa (Afrique occidentale française, or AOF) and French Equatorial Africa (Afrique équatoriale française, or AEF). The white Ivorian planter Gaston Lagarosse said:</description>
+    </item>
+    
+    <item>
+      <title>Pinochet&#39;s inequality miracle</title>
+      <link>https://thomaswestland.github.io/post/pinochet/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/post/pinochet/</guid>
+      <description>Economists don&amp;rsquo;t agree about the economics of dictatorships: some claim that the lack of checks on the executive and the widespread repression of political voice provide an institutional framework encouraging rent-seeking and stifling growth, whereas others think that it is precisely the lack of political accountability to the electorate that allows for economic policies that make technical sense and are conducive to growth but would not attain political consensus. Economic historians, whose job description allows them to focus on cases rather than on general rules, can point to examples supporting both theses (or neither).</description>
+    </item>
+    
+    <item>
+      <title>About Decompressing History</title>
+      <link>https://thomaswestland.github.io/about/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomaswestland.github.io/about/</guid>
+      <description>Emiliano Travieso is a PhD student in economic history at King&amp;rsquo;s College, Cambridge. He works on the economic history of the River Plate in the nineteenth and twentieth centuries, focusing on natural resources, agriculture and energy.
+Tom Westland is a PhD student in economic history at Sidney Sussex College, Cambridge. His current work centres on the French colonial world, and in particular Senegal in the colonial and post-independence periods, with an emphasis on trade, structural change and industrialisation.</description>
     </item>
     
   </channel>
